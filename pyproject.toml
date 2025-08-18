@@ -1,0 +1,16 @@
+[project]
+name = "thai-tokenizer"
+version = "0.1.0"
+description = "MLX LoRA Thai Tokenizer using Qwen3-4B and Thai Wikipedia dataset"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mlx>=0.15.0",
+    "mlx-lm>=0.8.0",
+    "transformers>=4.36.0",
+    "torch>=2.1.0",
+    "datasets>=2.14.0",
+    "pandas>=2.1.0",
+    "numpy>=1.24.0",
+    "huggingface-hub>=0.17.0"
+]

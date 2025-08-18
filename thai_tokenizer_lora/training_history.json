@@ -1,0 +1,9 @@
+{
+  "losses": [
+    1.1749562412199468,
+    1.3094804242122027
+  ],
+  "epochs": 2,
+  "learning_rate": 0.0001,
+  "model_name": "Qwen/Qwen3-4B-Instruct-2507"
+}
